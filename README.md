@@ -17,10 +17,6 @@ StatMind is an AI-assisted interactive data analysis dashboard developed to make
 
 This project was developed using AI-assisted tools, mainly Lovable and Cursor AI. Lovable was used to generate the initial frontend application from prompts, while Cursor AI was used to debug errors, refine UI components, and improve the functionality of statistics, charts, and machine learning models.
 
-## Example Dataset
-
-The application was tested using the Titanic dataset to validate data upload, summary statistics, visualization outputs, and machine learning model results.
-
 ## Project Outcome
 
 The final outcome is a functional frontend web application that supports data exploration, statistical summaries, visual analytics, and basic machine learning in an interactive dashboard environment.
